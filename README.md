@@ -35,7 +35,7 @@ VUG  0.32  0.96  1.00  0.81
 VYM  0.22  0.93  0.81  1.00
 ```
 
-You can experiment with the tool using EFTs and / or stocks to construct your own portfolio with the goal of maximizing the sharpe ratio.  This usually involves finding the right mix of assets with good returns and low correlations.
+You can experiment with the tool using ETFs and / or stocks to construct your own portfolio with the goal of maximizing the sharpe ratio.  This usually involves finding the right mix of assets with good returns and low correlations.
 
 # TODOs
 
